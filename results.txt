@@ -1,0 +1,15 @@
+Top 5 majors by median earnings
+                                    Major Major_category   Median Unemployment_rate  Sample_size Unemp_percentile  Below_median_unemp
+                    PETROLEUM ENGINEERING    Engineering $110,000              1.8%           36                5                True
+           MINING AND MINERAL ENGINEERING    Engineering  $75,000             11.7%            7               97               False
+                METALLURGICAL ENGINEERING    Engineering  $73,000              2.4%            3                8                True
+NAVAL ARCHITECTURE AND MARINE ENGINEERING    Engineering  $70,000              5.0%           16               25                True
+                     CHEMICAL ENGINEERING    Engineering  $65,000              6.1%          289               43                True
+
+Median unemployment rate, all majors: 6.8%
+Mean unemployment rate, all majors:   6.8%
+Top-5 average unemployment rate:      5.4%
+
+Note: tie at $65,000 with: NUCLEAR ENGINEERING (unemployment 17.7%)
+
+Correlation (median earnings vs unemployment), all majors: -0.11
